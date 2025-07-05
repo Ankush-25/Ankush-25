@@ -60,10 +60,10 @@ Custom voice assistant using speech recognition + Gemini API
 ## 🎓 Education
 
 **MCA – Shri Guru Ram Rai University, Dehradun**  
-*2023 – 2025* | CGPA: 7.4
+*2023 – 2025* | 
 
 **B.Sc. – HNB Garhwal University, Tehri Garhwal**  
-*2020 – 2023* | CGPA: 5.6
+*2020 – 2023* | 
 
 ---
 
