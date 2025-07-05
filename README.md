@@ -1,17 +1,84 @@
-<h1 align="center">Hi 👋, I'm Passionate Software Engineer</h1>
-<h3 align="center">A Full Stack Engineer</h3>
+# 👋 Hello, I'm Ankit Bhandari
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankush-25&label=Profile%20views&color=0e75b6&style=flat" alt="ankush-25" /> </p>
+🎓 I'm a Master's in Computer Applications (MCA) student, full-stack MERN developer, and AI enthusiast from Tehri Garhwal, India. I love building smart web applications and exploring the intersection of machine learning and automation.
 
-- 🔭 I’m currently working on [Hiringstore](https://github.com/Ankush-25/Hiringstore)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on: **AI voice assistants** and **stock price prediction models**
+- 🌱 I’m currently learning: **Blockchain data engineering** and **advanced MERN stack deployment**
+- 🤝 I’m looking to collaborate on: Web and AI-based open-source projects
+- 💬 Ask me about: Full-stack development, LSTM models, Python automation
+- 📫 How to reach me: [bhandariji1398@gmail.com](mailto:bhandariji1398@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush-25&show_icons=true&locale=en&layout=compact" alt="ankush-25" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush-25&show_icons=true&locale=en" alt="ankush-25" /></p>
+## 💼 Internships & Experience
+
+- **Software Trainee Engineer Intern – Acroknacks**  
+  *Jun 2024 – Aug 2024*  
+  ▸ Built a dynamic scheduler using React.js and integrated backend APIs.
+
+- **Web Developer Intern – Vigyapanam Pvt. Ltd.**  
+  *Jun 2024 – Dec 2024*  
+  ▸ Developed marketing tools and pages using HTML, CSS, and JavaScript.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Python` `JavaScript` `C` `HTML` `CSS`
+
+**Frameworks & Tools**  
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Git` `GitHub`
+
+**AI/ML & Libraries**  
+`NumPy` `pandas` `scikit-learn` `TensorFlow` `Google Gemini API` `Speech Recognition`
+
+**Other Tools**  
+`Jira` `VS Code` `Postman`
+
+---
+
+## 📊 Projects
+
+### 📈 Stock Price Prediction Using LSTM & Linear Regression
+Predictive model for Apple (AAPL) stock using historical Yahoo Finance data  
+▸ Implemented LSTM + Linear Regression  
+▸ Performance evaluated with MAPE, MAE, MSE, R²  
+▸ Visualization with moving averages
+
+### 🗣️ AI Voice Assistant (Python)
+Custom voice assistant using speech recognition + Gemini API  
+▸ Speech-to-text + text-to-speech integration  
+▸ Handles basic tasks via voice commands
+
+---
+
+## 🎓 Education
+
+**MCA – Shri Guru Ram Rai University, Dehradun**  
+*2023 – 2025* | CGPA: 7.4
+
+**B.Sc. – HNB Garhwal University, Tehri Garhwal**  
+*2020 – 2023* | CGPA: 5.6
+
+---
+
+## 📜 Certifications
+
+- ISRO – Geo Data Analysis  
+- Great Learning – C Programming
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ankit-bhandari25)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Ankush-25)
+
+---
+
+_Thanks for visiting! ⭐️ Consider giving a star to any project you find interesting!_
