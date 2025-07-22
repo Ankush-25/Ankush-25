@@ -1,181 +1,135 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ankush-25/Ankush-25/main/wave.svg" width="100px">
   
-  <!-- 3D Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=500&color=22D3EE&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=𝐇𝐞𝐥𝐥𝐨+𝐖𝐨𝐫𝐥𝐝+👋;𝐈'𝐦+𝐀𝐧𝐤𝐮𝐬𝐡;𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤+𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫;𝐓𝐞𝐜𝐡+𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭" alt="Animated Header" />
-
-  <!-- Glowing Badges -->
-  <div>
-    <img src="https://img.shields.io/badge/Full%20Stack%20Dev-Expert-%2300ffd0?style=for-the-badge&logo=fullstack&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-Guru-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Innovator-Creator-%23ff00aa?style=for-the-badge&logo=github&logoColor=white" />
-  </div>
+  <!-- Animated Header -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=80&lines=Ankit+Bhandari;Full-Stack+Developer;AI+Enthusiast;MCA+Student" alt="Ankit Bhandari Banner" />
+  </h1>
   
-  <!-- Matrix Code Rain Effect -->
-  <img src="https://raw.githubusercontent.com/Ankush-25/Ankush-25/main/matrix.svg" width="100%" height="150" alt="Matrix Code" />
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- GitHub Stats with Glow Effect -->
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ankush-25&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush-25&theme=radical&hide_border=true&background=0d1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" height="180" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- 3D Tech Stack -->
-  <h2>🚀 𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤</h2>
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
-        </a>
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-        </a>
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="48" height="48" alt="Python" />
-        </a>
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-        </a>
-        <br>Node.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-        </a>
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-        </a>
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        </a>
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
-        </a>
-        <br>Git
-      </td>
-    </tr>
-  </table>
-  
-  <!-- Skill Bars -->
-  <h2>📊 𝐒𝐤𝐢𝐥𝐥 𝐌𝐚𝐬𝐭𝐞𝐫𝐲</h2>
-  
+  <!-- Contact Badges -->
   <p align="center">
-    Java <br>
-    <progress value="90" max="100" style="width: 400px; height: 20px;"></progress> 90%
-  </p>
-  <p align="center">
-    JavaScript <br>
-    <progress value="85" max="100" style="width: 400px; height: 20px;"></progress> 85%
-  </p>
-  <p align="center">
-    React <br>
-    <progress value="80" max="100" style="width: 400px; height: 20px;"></progress> 80%
-  </p>
-  <p align="center">
-    Python <br>
-    <progress value="75" max="100" style="width: 400px; height: 20px;"></progress> 75%
-  </p>
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- GitHub Snake Contribution -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankush-25/Ankush-25/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankush-25/Ankush-25/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ankush-25/Ankush-25/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <!-- Social Links with Hover Effect -->
-  <h2>🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞</h2>
-  
-  <p align="center">
-    <a href="#" target="_blank">
+    <a href="mailto:bhandariji1398@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/ankit-bhandari25">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="#" target="_blank">
+    <a href="https://github.com/Ankush-25">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <a href="tel:+916397098909">
+      <img src="https://img.shields.io/badge/Phone-6397098909-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
   </p>
   
-  <!-- Animated Quote -->
-  <h2>💬 𝐑𝐚𝐧𝐝𝐨𝐦 𝐃𝐞𝐯 𝐐𝐮𝐨𝐭𝐞</h2>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="500" />
-  
-  <!-- Support Section with Animation -->
-  <h2>☕ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐌𝐲 𝐉𝐨𝐮𝐫𝐧𝐞𝐲</h2>
-  
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/ankush" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
-    </a>
-  </p>
-  
-  <!-- Fun Fact with Animation -->
-  <h2>⚡ 𝐅𝐮𝐧 𝐅𝐚𝐜𝐭</h2>
-  
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Dev Jokes" width="500" />
-  </p>
+  <!-- Stats Cards -->
+  <div>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankush-25&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush-25&theme=radical&hide_border=true&background=0d1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
+  </div>
 </div>
 
-<br>
+## 💼 Professional Experience
+
+### **Software Trainee Engineer**  
+[![Acroknacks](https://img.shields.io/badge/Acroknacks_Technology_Solutions-20232A?style=flat-square&logo=react&logoColor=61DAFB)]()  
+*Jan 2025 – Feb 2025 | Dehradun, India*
+
+- Developed a dynamic scheduling system using React.js, improving task efficiency by **30%**
+- Debugged and wrote maintainable code following best practices
+- Used **Git** and **Bitbucket** for version control and team collaboration
+- Participated in **Agile** processes using **JIRA** for task tracking
+- Integrated **REST APIs** with **JWT authentication** using **Axios**
+
+### **FrontEnd Developer Intern**  
+[![Vigyapanam](https://img.shields.io/badge/Vigyapanam_Pvt._Ltd.-0078D7?style=flat-square&logo=windows&logoColor=white)]()  
+*Jun 2024 – Dec 2024*
+
+- Built responsive landing pages for 5+ product campaigns, boosting user engagement by **25%**
+- Optimized page load speed by **40%**
+- Implemented **SEO-friendly** HTML/CSS structures
+
+## 🚀 Projects
+
+### **PersoGitHub – GitHub Workflow Application (MERN Stack)**  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+- Engineered full-stack app using **MongoDB, Express, React (Vite), and Node.js**
+- Deployed on **AWS Amplify** with **AWS S3** for cloud data retrieval
+- Developed custom CLI to simulate Git commands
+- Integrated **JWT-authenticated REST APIs** with role-based access
+
+### **Stock Price Prediction (ML with LSTM)**  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+- Trained **LSTM/Linear Regression** models on Yahoo Finance data
+- Predicted Apple stock trends with **92% accuracy**
+- Evaluated models using **R² Score, MAE, MSE**
+- Visualized trends with moving averages
+
+### **AI Voice Assistant**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](#)
+
+- Created voice-activated assistant with **Google Gemini API**
+- Implemented **speech recognition** and **text-to-speech**
+- Automated system tasks through voice commands
+
+## 🎓 Education
+
+### **Master of Computer Applications (MCA)**  
+[![SGRRU](https://img.shields.io/badge/Shri_Guru_Ram_Rai_University-008000?style=flat-square&logo=graduation-cap&logoColor=white)]()  
+*2023 – 2025 | Dehradun, India*
+
+### **Bachelor of Science (B.Sc.)**  
+[![HNBGU](https://img.shields.io/badge/Hemvati_Nandan_Bahuguna_Garhwal_University-000080?style=flat-square&logo=graduation-cap&logoColor=white)]()  
+*2020 – 2023 | Tehri Garhwal, India*
+
+## 💻 Technical Skills
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+
+### **Databases & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+## 📜 Certifications
+
+[![ISRO](https://img.shields.io/badge/ISRO_Geo_Data_Analysis-00529B?style=for-the-badge&logo=spacex&logoColor=white)](#)  
+[![C Programming](https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
+
+## 🌟 GitHub Highlights
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ankush-25/Ankush-25/main/footer.svg" width="100%" height="auto" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-25&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=22D3EE" alt="Top Languages" height="165" />
+  
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Ankush-25/Ankush-25/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+<div align="center">
+  <h3>Let's connect and create something amazing!</h3>
+  <p>
+    <a href="https://linkedin.com/in/ankit-bhandari25">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+    </a>
+    <a href="mailto:bhandariji1398@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email Me" />
+    </a>
+  </p>
 </div>
