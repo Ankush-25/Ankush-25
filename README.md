@@ -1,84 +1,65 @@
-# 👋 Hello, I'm Ankit Bhandari
+👋 Hello, I'm Ankush
+🎓 Passionate Indian Computer Science Student | Full-Stack Developer | Tech Enthusiast
 
-🎓 I'm a Master's in Computer Applications (MCA) student, full-stack MERN developer, and AI enthusiast from Tehri Garhwal, India. I love building smart web applications and exploring the intersection of machine learning and automation.
+💫 About Me:
+🔭 I'm passionate about solving real-world problems through coding  
+🌱 Currently mastering Full-Stack Development  
+💬 Ask me about Java and web technologies  
+⚡ Fun fact: I'm not funny but I am, you know 😄  
+📫 Reach me: [Your Email Here]
 
----
+🛠️ Tech Stack:
+**Languages**:  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-## 🚀 About Me
+**Web Development**:  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-- 🔭 I’m currently working on: **AI voice assistants** and **stock price prediction models**
-- 🌱 I’m currently learning: **Blockchain data engineering** and **advanced MERN stack deployment**
-- 🤝 I’m looking to collaborate on: Web and AI-based open-source projects
-- 💬 Ask me about: Full-stack development, LSTM models, Python automation
-- 📫 How to reach me: [bhandariji1398@gmail.com](mailto:bhandariji1398@gmail.com)
+**Databases**:  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
----
+**Tools & Frameworks**:  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-## 💼 Internships & Experience
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#)
 
-- **Software Trainee Engineer Intern – Acroknacks**  
-  *Jun 2024 – Aug 2024*  
-  ▸ Built a dynamic scheduler using React.js and integrated backend APIs.
+📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ankush-25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ankush-25&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-25&theme=dark&hide_border=false&layout=compact)
 
-- **Web Developer Intern – Vigyapanam Pvt. Ltd.**  
-  *Jun 2024 – Dec 2024*  
-  ▸ Developed marketing tools and pages using HTML, CSS, and JavaScript.
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ankush-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🛠️ Tech Stack
+😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-**Languages**  
-`Python` `JavaScript` `C` `HTML` `CSS`
+💡 Projects:
+Coming soon! Stay tuned for exciting projects in full-stack development!
 
-**Frameworks & Tools**  
-`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs` `Git` `GitHub`
+📚 Currently Learning:
+- Advanced JavaScript frameworks
+- Cloud technologies
+- Database optimization techniques
 
-**AI/ML & Libraries**  
-`NumPy` `pandas` `scikit-learn` `TensorFlow` `Google Gemini API` `Speech Recognition`
+💰 Support Me:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](#)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
 
-**Other Tools**  
-`Jira` `VS Code` `Postman`
-
----
-
-## 📊 Projects
-
-### 📈 Stock Price Prediction Using LSTM & Linear Regression
-Predictive model for Apple (AAPL) stock using historical Yahoo Finance data  
-▸ Implemented LSTM + Linear Regression  
-▸ Performance evaluated with MAPE, MAE, MSE, R²  
-▸ Visualization with moving averages
-
-### 🗣️ AI Voice Assistant (Python)
-Custom voice assistant using speech recognition + Gemini API  
-▸ Speech-to-text + text-to-speech integration  
-▸ Handles basic tasks via voice commands
-
----
-
-## 🎓 Education
-
-**MCA – Shri Guru Ram Rai University, Dehradun**  
-*2023 – 2025* | 
-
-**B.Sc. – HNB Garhwal University, Tehri Garhwal**  
-*2020 – 2023* | 
-
----
-
-## 📜 Certifications
-
-- ISRO – Geo Data Analysis  
-- Great Learning – C Programming
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ankit-bhandari25)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/Ankush-25)
-
----
-
-_Thanks for visiting! ⭐️ Consider giving a star to any project you find interesting!_
+⭐ Thanks for visiting! 
